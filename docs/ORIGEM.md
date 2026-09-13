@@ -10,7 +10,6 @@
 | `Relato de projeto NODE-RED.zip` | Aberto para examinar o JSON e o relato internos; ZIP original não incluído |
 | `concicred3.json` dentro do ZIP | Base selecionada por reunir upload habilitado, rota do consultor, chamada API e chat |
 | `Relato de desenvolvimento de IA - nodered.docx` dentro do ZIP | Usado para contexto e confrontado com o código; texto e capturas originais não republicados integralmente |
-| `Meta Prompt para Assistente.txt` | Copiado como artefato histórico em `prompt-desenvolvimento.txt` |
 | `Teste_importacao.csv - Página1.csv` | Fornecido posteriormente e confirmado pelo autor como fictício; preservado em `examples/vendas-750-origem.csv` e convertido em `examples/vendas-750.csv` |
 | `PROJETO_Modelagem_Arquitetura_Software.docx` | Base para atores, casos de uso, classes e contexto do problema |
 | `Protótipo telas sistema ConciCred.docx` | Base para telas e navegação inicial; cinco imagens extraídas sem alteração |

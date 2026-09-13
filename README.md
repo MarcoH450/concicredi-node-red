@@ -92,7 +92,6 @@ concicred/
 - [Prototipagem e evolução](docs/PROTOTIPAGEM.md)
 - [Limitações e próximos desenvolvimentos](docs/LIMITACOES.md)
 - [Demonstração e validação](docs/DEMONSTRACAO.md)
-- [Como publicar no GitHub](docs/PUBLICACAO.md)
 - [Origem dos arquivos e adaptações](docs/ORIGEM.md)
 
 ## Verificação local
