@@ -29,8 +29,6 @@ Use o chat para demonstrar a integração e discutir suas limitações. Não uti
 
 A chave literal encontrada no export foi substituída por `env.get("GROQ_API_KEY")`. Sem chave, a função devolve aviso local. A segunda saída foi conectada ao formatador de resposta para que avisos não deixem a requisição esperando.
 
-O arquivo [`prompt-desenvolvimento.txt`](prompt-desenvolvimento.txt) é um artefato histórico de orientação de um assistente de desenvolvimento. Ele não é o system prompt executado pelo consultor financeiro e não é carregado automaticamente pelo fluxo.
-
 ## Evolução sugerida
 
 Remover os números fixos, fornecer apenas métricas calculadas e identificadas por período, alinhar os filtros da IA aos da tela, transmitir histórico limitado quando necessário e validar respostas com casos de referência. Isso constitui trabalho futuro, não correção já concluída nesta documentação.
